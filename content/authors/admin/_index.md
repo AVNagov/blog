@@ -1,78 +1,66 @@
 ---
 # Display name
-title: 吳健雄
+title: AVNagov
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation: Наговицын Арсений Владимирович
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Arseniy
+last_name: Nagovitcyn
 
 # Status emoji
 status:
-  icon: ☕️
+  icon: 
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: Студент ФФМиЕН РУДН
 
-# Organizations/Affiliations to show in About widget
-organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
-
+bio: 
 # Interests to show in About widget
-interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+Interests:
+  - Языки программирования
+  - Нейросети
+  - Компьютерные игры
 
 # Education to show in About widget
-education:
+Education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: Школа "1-й МОК"
+      year: 2023
 
-# Skills
+# Навыки
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
 skills:
   - name: Technical
     items:
       - name: Python
         description: ''
-        percent: 80
+        percent: 60
         icon: python
         icon_pack: fab
-      - name: Data Science
+      - name: Cpp
         description: ''
-        percent: 100
-        icon: chart-line
+        percent: 70
+        icon: cpp
         icon_pack: fas
       - name: SQL
         description: ''
-        percent: 40
+        percent: 44
         icon: database
         icon_pack: fas
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
-      - name: Hiking
+      - name: Counter-Strike 2
         description: ''
-        percent: 60
+        percent: 100
         icon: person-hiking
         icon_pack: fas
       - name: Cats
@@ -80,7 +68,7 @@ skills:
         percent: 100
         icon: cat
         icon_pack: fas
-      - name: Photography
+      - name: Engl
         description: ''
         percent: 80
         icon: camera-retro
@@ -119,6 +107,5 @@ social:
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
-
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Наговицын Арсений Владимирович - студент Российского Университета Дружбы Народов, обучается на факультете физико-математических и естественных наук. Занимаюсь изучением программирования. Люблю решать нестандартные задания на языке c++.
 {style="text-align: justify;"}
