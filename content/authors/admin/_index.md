@@ -63,12 +63,12 @@ skills:
         percent: 100
         icon: person-hiking
         icon_pack: fas
-      - name: Cats
+      - name: Fortnite
         description: ''
         percent: 100
         icon: cat
         icon_pack: fas
-      - name: Engl
+      - name: Minecraft
         description: ''
         percent: 80
         icon: camera-retro
